@@ -3,8 +3,8 @@
 This is a hate speech detection algorithm using bag of words approach and linear regression model.
 
 
-Dataset is provided by: Dr. A.R.Weerasinghe (UCSC)
+Dataset is provided by: UCSC LTRL Lab
 
-Sinhala stopwords and suffixes reference: [Sinhala stopwords & suffixes](http://ltrl.ucsc.lk/download-3/)
+Sinhala stopwords and suffixes reference: [http://ltrl.ucsc.lk/download-3](http://ltrl.ucsc.lk/download-3/)
 
 
