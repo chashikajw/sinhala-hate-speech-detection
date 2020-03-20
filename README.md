@@ -7,4 +7,6 @@ Dataset is provided by: UCSC LTRL.
 
 Sinhala stopwords and suffixes reference: [http://ltrl.ucsc.lk/download-3](http://ltrl.ucsc.lk/download-3/)
 
+You can use any dataset and apply the algorithm.
+
 
